@@ -26,6 +26,8 @@ public:
 	void OnKeyboardDown(unsigned char key, int x, int y);
 	void OnTimer(int value);
 	void OnDraw();	
+	
+	int fd_fifo;
 
 	Esfera esfera;
 	std::vector<Plano> paredes;
