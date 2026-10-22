@@ -42,3 +42,8 @@ Asignatura impartida por el **Departamento de Ingeniería Eléctrica, Electróni
 Este repositorio tiene finalidad exclusivamente docente.
 
 Si detectas algún error o tienes alguna sugerencia de mejora, puedes comunicarlo al profesorado de la asignatura.
+
+
+## Diario practicas Miguel
+
+En la practica 1 he hecho que se muevan las raquetas y la bola como se pide y en la practica dos me he acordado de modificar este readme y tambien he hecho todo lo que se pide. Saludos internautas.
